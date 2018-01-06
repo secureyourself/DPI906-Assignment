@@ -1,0 +1,20 @@
+		$x1 = "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><assembly xmlns=\"urn:schemas-microsoft-com:asm.v1\" manifestVersio" ascii
+		$s2 = "Failed to remove spyware! Try again or restart computer." fullword wide
+		$s3 = "Failed to open file with Web Injects." fullword wide
+		$s4 = "sfile_webinjects=%S" fullword wide
+		$s5 = "Spyware removed! Please restart computer for absolute removing." fullword wide
+		$s6 = "Internal command error at line %u." fullword ascii
+		$s7 = "wsocks32.dll" fullword ascii
+		$s8 = "file_webinjects" fullword ascii
+		$s9 = "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)" fullword ascii
+		$s10 = "Script already executed." fullword ascii
+		$s11 = "Password: %S" fullword wide
+		$s12 = "Bad format of Web Inject." fullword wide
+		$s13 = "ldr.exe" fullword wide
+		$s14 = "Spyware not founded on this system." fullword wide
+		$s15 = "grab_%S_%02u_%02u_%02u.bin" fullword wide
+		$s16 = "data_inject" fullword ascii
+		$s17 = "Unknown command at line %u." fullword ascii
+		$s18 = "Remove spyware from this system" fullword wide
+		$s19 = "Spyware status on this system" fullword wide
+		$s20 = "encryption_key=OK" fullword wide
